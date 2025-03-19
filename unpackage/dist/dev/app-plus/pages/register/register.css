@@ -1,0 +1,29 @@
+
+.registration-container[data-v-bac4a35d] {
+    padding: 20px;
+}
+.input-group[data-v-bac4a35d] {
+    margin-bottom: 15px;
+}
+.input-group uni-label[data-v-bac4a35d] {
+    display: block;
+    margin-bottom: 5px;
+}
+.input-group uni-input[data-v-bac4a35d] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+uni-button[data-v-bac4a35d] {
+    width: 100%;
+    padding: 10px;
+    background-color: #007aff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+uni-button[data-v-bac4a35d]:hover {
+    background-color: #0056b3;
+}

@@ -1,0 +1,42 @@
+
+/* 书架容器样式 */
+.book-shelf {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-color: #f0f0f0;
+}
+
+/* 九宫格容器样式 */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 每行显示3本书 */
+  gap: 10px;
+  padding: 20px;
+}
+
+/* 书籍项样式 */
+.book-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.book-cover {
+  width: 100px;
+  height: 150px;
+  object-fit: cover;
+}
+.book-title {
+  font-size: 14px;
+  color: #333;
+  text-align: center;
+  padding: 5px;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

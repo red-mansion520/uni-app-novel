@@ -1,0 +1,10 @@
+
+/* 可以添加样式来美化页面 */
+.novel-item {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    /* 可以根据需要添加其他样式，如文字颜色、对齐方式等 */
+    color: #333;
+    text-align: left;
+}

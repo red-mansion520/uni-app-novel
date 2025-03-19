@@ -1,0 +1,1 @@
+.container{display:flex;flex-direction:row;justify-content:space-between}.sort{display:flex;width:20%;flex-direction:column}.sort_one{padding:10px;border-bottom:1px solid #ccc;text-align:center}.label{display:flex;width:80%;flex-direction:column}.label_sort{padding:10px;border-bottom:1px solid #ccc}

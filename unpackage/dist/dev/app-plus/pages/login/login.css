@@ -1,0 +1,33 @@
+
+.login-container[data-v-e4e4508d] {
+    padding: 20px;
+}
+.input-group[data-v-e4e4508d] {
+    margin-bottom: 15px;
+}
+.input-group uni-label[data-v-e4e4508d] {
+    display: block;
+    margin-bottom: 5px;
+}
+.input-group uni-input[data-v-e4e4508d] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+.button-group[data-v-e4e4508d] {
+    display: flex;
+    justify-content: space-between;
+}
+.button-group uni-button[data-v-e4e4508d] {
+    width: 48%;
+    padding: 10px;
+    background-color: #007aff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.button-group uni-button[data-v-e4e4508d]:hover {
+    background-color: #0056b3;
+}
